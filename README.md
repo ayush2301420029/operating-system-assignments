@@ -1,1 +1,1 @@
-# operating-system-assignments
+# operating-system-lab-assignments
